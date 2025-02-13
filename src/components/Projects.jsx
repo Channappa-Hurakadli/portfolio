@@ -6,28 +6,28 @@ const projects = [
   {
     title: ' Krishi-Sethu : The Crop Prediction App',
     description: 'A full stack web application built to predict the crop based on the soil and weather conditions',
-    image: '/assets/krishi-sethu.webp',
+    image: 'https://images.unsplash.com/photo-1625246333195-78d9c38ad449?auto=format&fit=crop&w=800&q=80',
     tech: ['React', 'JavaScript', 'Bootsrap', 'Node.js', 'Express', 'MongoDB','Python'],
     link: 'https://github.com/Channappa-Hurakadli/Krishi-Sethu'
   },
   {
     title: ' iNotebook',
     description: ' A MERN based web application built to save personalized notes',
-    image: '/assets/inotebook.webp',
+    image: 'https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=800&q=80',
     tech: ['React', 'JavaScript', 'Bootsrap', 'Node.js', 'Express', 'MongoDB'],
     link: 'https://github.com/Channappa-Hurakadli/iNotebook-FrontEnd'
   },
   {
     title: ' NewsMonkey- A News Aggregator App',
     description: 'A react based web application which allow users to go through the current news headlines',
-    image: '/assets/newsapp.webp',
+    image: 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80',
     tech: ['React', 'JavaScript', 'Bootsrap'],
     link: 'https://github.com/Channappa-Hurakadli/news-app'
   },
   {
     title: ' TextUtil',
     description: 'A text utility web application built using React',
-    image: '/assets/textutil.webp',
+    image: 'https://images.unsplash.com/photo-1555421689-491a97ff2040?auto=format&fit=crop&w=800&q=80',
     tech: ['React', 'JavaScript', 'Bootsrap', 'Node.js', 'Express', 'MongoDB','Python'],
     link: 'https://github.com/Channappa-Hurakadli/TextUtils-React'
   }
