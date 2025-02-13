@@ -39,7 +39,7 @@ function About() {
             </p>
             
             <motion.a
-              href="/Channappa-Hurakadli.pdf"
+              href="/assets/Channappa-Hurakadli.pdf"
               download
               className="inline-flex items-center px-6 py-3 bg-gray-900 text-white rounded-lg hover:bg-gray-800 transition-colors"
               whileHover={{ scale: 1.05 }}
