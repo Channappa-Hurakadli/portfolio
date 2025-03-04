@@ -58,7 +58,7 @@ function Header() {
           <a href="https://linkedin.com/in/channappa-hurakadli123" target="_blank" rel="noopener noreferrer">
             <Linkedin className="w-5 h-5 text-gray-600 hover:text-gray-900" />
           </a>
-          <a href="mailto:channappahurakadli8@gmail.com">
+          <a href="mailto:channappahurakadli123@gmail.com">
             <Mail className="w-5 h-5 text-gray-600 hover:text-gray-900" />
           </a>
         </div>
