@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { motion } from 'framer-motion';
 import { Download, Code2, Database, Layout, Smartphone, Server, Brain } from 'lucide-react';
 
